@@ -1,3 +1,5 @@
+https://chatgpt.com/c/209a47d6-c5ce-4a77-8b47-2e35e4aa3358
+
 アニメーションを利用したWebアプリケーションの作成
 Next.js、MUI、Firebase Firestore、Vercel、Gitを使ってアニメーションを利用したWebアプリケーションを作成するプロセスをステップごとに説明します。
 
