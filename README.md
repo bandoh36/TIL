@@ -6,7 +6,7 @@
 # 学びたいことメモ
 
 # Engineer
-- [ ] Cursor
+- [●] Cursor
 - [ ] Remix
 - [ ] CSS
 - [ ] SCSS
