@@ -26,6 +26,7 @@
 - [ ] Hono
 - [ ] SWR
 - [ ] Docker
+- [ ] API アーキテクチャ上のメリット
 - [ ] Python
 - [ ] Cloudflare
 
