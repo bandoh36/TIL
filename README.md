@@ -7,6 +7,7 @@
 
 # Engineer
 - [x] Cursor
+- [ ] tanstack
 - [ ] Three.js Theatre.js
 - [ ] Astro https://blog.ojisan.io/astro-de-client-turakatta/
 - [ ] Remix
